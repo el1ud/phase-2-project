@@ -1,4 +1,5 @@
 [
+    "category one" ,[
     {
       "id": 1,
       "name": "inside out ",
@@ -18,7 +19,9 @@
       "image": "https://lumiere-a.akamaihd.net/v1/images/p_disney_wish_2993_f80fee96.jpeg",
       "description": "Wish is a Pixar animated short film that tells the story of a wish-granting rock found by a young girl named Olive. With the ability to fulfill any wish, Olive's discovery brings joy and excitement to her rural community. However, as more people flock to make wishes, Olive realizes that the rock's power comes with unintended consequences. Through Olive's journey, Wish explores themes of community, responsibility, and the true nature of fulfillment.",
       "likes": 14
-    },
+    }
+]
+   ,"category 2" ,[
     {
       "id": 4,
       "name": "Elemental",
@@ -39,7 +42,9 @@
       "image": "https://lumiere-a.akamaihd.net/v1/images/p_disneymovies_hauntedmansion_poster_rebrand_e6c61d0d.jpeg      ",
       "description": "The Haunted Mansion is a family-friendly comedy film inspired by the Disney theme park attraction of the same name. The story follows a workaholic realtor named Jim Evers, who, along with his family, visits a mysterious mansion to assess its value. Upon arrival, they discover that the mansion is haunted by a cast of eccentric ghosts led by the ghostly master Gracey. As they uncover the secrets of the mansion's past, Jim and his family must work together to break a curse and help the ghosts find peace. Filled with humor, adventure, and spooky hijinks, The Haunted Mansion is a delightful romp that blends elements of comedy and supernatural mystery.",
       "likes": 14
-    },
+    }
+]
+ ,"category 3" , [
     {
         "id": 7,
         "name": "Turning Red ",
@@ -60,7 +65,9 @@
         "image": "https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg        ",
         "description": "Encanto is a Disney animated film that tells the story of the Madrigal family, who live in a magical house in the mountains of Colombia. The family members each possess unique magical gifts, except for Mirabel, the protagonist. When the magic of the Encanto, the house's source of power, begins to fade, Mirabel embarks on a journey to uncover the truth behind the family's magic and save her home. Along the way, she learns the importance of self-discovery, acceptance, and the power of family bonds. Set against the backdrop of vibrant Colombian culture, Encanto is a heartwarming tale filled with colorful characters, catchy music, and enchanting visuals.",
         "likes": 14
-      },
+      }
+    ]
+     ,"category 4", [
       {
         "id": 10,
         "name": "luca",
@@ -81,7 +88,8 @@
         "image": "https://lumiere-a.akamaihd.net/v1/images/p_soul_disneyplus_v2_20907_764da65d.jpeg        ",
         "description": "Soul is a Pixar animated film that follows the journey of Joe Gardner, a middle-school music teacher with a passion for jazz. After a near-death experience, Joe's soul embarks on a cosmic adventure in the Great Before, a realm where souls develop their personalities before being born. Alongside a precocious soul named 22, Joe learns profound truths about life, purpose, and the importance of embracing every moment. Filled with stunning animation, heartfelt storytelling, and a rich musical score, Soul is a soulful exploration of the human experience and the beauty of finding one's spark.",
         "likes": 14
-      },
+      } 
+      ,"category 5",[
       {
         "id": 13,
         "name": "Mulan",
@@ -102,5 +110,5 @@
         "image": "https://lumiere-a.akamaihd.net/v1/images/p_blackwidow_21043_v2_6d1b73b8.jpeg        ",
         "description": "Black Widow is a Marvel film that delves into the backstory of Natasha Romanoff, aka Black Widow. It follows her reunion with her former family of Russian operatives as they confront their past and battle against the villainous Taskmaster and the Red Room organization. With action-packed scenes and themes of family and redemption, Black Widow provides insight into Natasha's character within the Marvel Universe.",
         "likes": 14
-      }
+      }]
  ]
