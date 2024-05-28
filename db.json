@@ -1,5 +1,5 @@
 [
-    "category one" ,[
+    "category 1" ,[
     {
       "id": 1,
       "name": "inside out ",
@@ -21,6 +21,7 @@
       "likes": 14
     }
 ]
+
    ,"category 2" ,[
     {
       "id": 4,
@@ -44,6 +45,7 @@
       "likes": 14
     }
 ]
+
  ,"category 3" , [
     {
         "id": 7,
@@ -67,6 +69,7 @@
         "likes": 14
       }
     ]
+
      ,"category 4", [
       {
         "id": 10,
@@ -88,7 +91,8 @@
         "image": "https://lumiere-a.akamaihd.net/v1/images/p_soul_disneyplus_v2_20907_764da65d.jpeg        ",
         "description": "Soul is a Pixar animated film that follows the journey of Joe Gardner, a middle-school music teacher with a passion for jazz. After a near-death experience, Joe's soul embarks on a cosmic adventure in the Great Before, a realm where souls develop their personalities before being born. Alongside a precocious soul named 22, Joe learns profound truths about life, purpose, and the importance of embracing every moment. Filled with stunning animation, heartfelt storytelling, and a rich musical score, Soul is a soulful exploration of the human experience and the beauty of finding one's spark.",
         "likes": 14
-      } 
+      } ]
+
       ,"category 5",[
       {
         "id": 13,
